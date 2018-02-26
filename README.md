@@ -7,4 +7,7 @@
 * [在线查看Android API源码](https://github.com/leoFengCT/git/blob/master/my-android-note/ChaosCrystal/HowToViewAPISourceOnline.md)
 * [录屏与GIF制作](https://github.com/leoFengCT/git/blob/master/my-android-note/ChaosCrystal/%E5%BD%95%E5%B1%8F%E4%B8%8EGIF%E5%88%B6%E4%BD%9C.md)
 * [ADB常用命令](https://github.com/leoFengCT/git/blob/master/my-android-note/ChaosCrystal/ADB%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+### Git使用知识
+* [Git使用教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [markdown即.md文件语法](https://www.cnblogs.com/liugang-vip/p/6337580.html)
 
